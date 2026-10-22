@@ -1,0 +1,2 @@
+# Apex
+Bedwars,Skywars,bedfight
